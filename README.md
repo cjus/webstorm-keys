@@ -29,10 +29,12 @@ Open file highlighted in explore pane   |   Command-Down arrow
 Update project (github pull) |   Command-T
 Pull text up    |   Shift-Command-P
 Quick directory navigate    |   Command-up arrow
+Refactor this   |   Control-T   | Displays various options for refactoring what is at the cursor
 Search everywhere   |   Command-Escape
 Search recent files |   Command-E
 Search recently edited files   |   Shift-Command-E
 Size left pane  |   Command-1 then Shift-Command left and right arrows  | Escape to switch back to editor view
+Surround Text   |   Option-Command-T
 Version Control Popup   |   Control-V
 
 ## Custom, user defined 
